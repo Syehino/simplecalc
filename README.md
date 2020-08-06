@@ -1,2 +1,2 @@
 # simplecalc
-Begginer calculator
+Beginner calculator wrote in Python
